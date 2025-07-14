@@ -1,0 +1,11 @@
+/* ===== Variables ===== */
+:root {
+  --primary: #0f172a;
+  --accent: #2563eb;
+  --light: #f9f9f9;
+  --dark: #1e293b;
+  --gray: #64748b;
+  --success: #10b981;
+  --warning: #f59e0b;
+}
+/* Base styles omitted for brevity */
